@@ -1,5 +1,5 @@
 # Rimworld-Mods-HSK-Russian-Translations
-[img](https://user-images.githubusercontent.com/131082061/233104435-5bd33ad0-2d4b-42c2-b36c-2e6518c4db65.png)[/img]
+![preview][img](https://user-images.githubusercontent.com/131082061/233104435-5bd33ad0-2d4b-42c2-b36c-2e6518c4db65.png)[/img][/preview]
 
 Русификация модов Vile - https://github.com/xenomacabre/VilesMods
 
